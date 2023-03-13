@@ -21,7 +21,6 @@ This homework is to propose an innovative project and describe the key features,
 
 ---
 ## 物品運送裝置
-![](https://github.com/phantom3035/MCU-HW/blob/main/images/backpack.png?raw=true)
 ### 應用功能說明
 1. 收納物品：有掛勾和托盤可以放置書包、衣物、用具、電器等
 2. 定點遙控傳輸物品：可用手機指定時間將所需物品送達指定位置  ex:廚房到客廳、客廳到臥室等
@@ -45,22 +44,6 @@ This homework is to propose an innovative project and describe the key features,
 ![](https://github.com/phantom3035/MCU-HW/blob/main/images/%E7%A5%9E%E5%A5%87%E6%96%B9%E5%A1%8A%E5%9C%96.png?raw=true)
 
 
----
-## Market Analysis (市場分析)
-![](https://blog.hubspot.com/hs-fs/hubfs/tam-sam-som.png?width=1200&name=tam-sam-som.png)
-
-### TAM of Future Home Products
-The Target Market size (TAM) of Future Home Products is the number of household.<br>
-
-### Taiwan Households = 8.93M (台灣 9百萬戶）
-* [Total number of households in Taiwan from 2010 to 2020(in 1,000s)](https://www.statista.com/statistics/330804/taiwan-national-total-number-of-households/#:~:text=By%20the%20end%20of%202020,households%20in%20the%20previous%20year.)
-
-### Japan Households = 57.2M (日本 5千7百萬戶)
-* [Number of Households in Japan](https://www.helgilibrary.com/indicators/number-of-households/japan/) 
-
-### American Households = 129.93M (美國 1.3億戶)
-* [Number of households in the U.S. from 1960 to 2021(in millions)](https://www.statista.com/statistics/183635/number-of-households-in-the-us/)<br>
-* [The average American household consisted of 2.51 people in 2021.](https://www.statista.com/statistics/183648/average-size-of-households-in-the-us/)<br>
 
 <br>
 <br>
