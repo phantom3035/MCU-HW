@@ -42,7 +42,7 @@ This homework is to propose an innovative project and describe the key features,
 5. 任務規劃與控制: Mission Planner with Floorplan
 
 ### 系統方塊圖
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_kitchen_robot.png?raw=true)
+![](https://github.com/phantom3035/MCU-HW/blob/main/images/%E7%A5%9E%E5%A5%87%E6%96%B9%E5%A1%8A%E5%9C%96.png?raw=true)
 
 
 ---
