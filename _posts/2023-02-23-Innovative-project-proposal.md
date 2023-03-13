@@ -23,7 +23,7 @@ This homework is to propose an innovative project and describe the key features,
 ## 物品運送裝置
 ![](https://github.com/phantom3035/MCU-HW/blob/main/images/backpack.png?raw=true)
 ### 應用功能說明
-1. 收納物品：掛勾可以掛書包、衣物、用具等
+1. 收納物品：有掛勾和托盤可以放置書包、衣物、用具、電器等
 2. 定點遙控傳輸物品：可用手機指定時間將所需物品送達指定位置
 3. 物品辨識:自動歸納出已儲存物品的項目並整理成表
 
@@ -35,7 +35,7 @@ This homework is to propose an innovative project and describe the key features,
 4. 聯網方式:WiFi
 
 **所需相關技術：**
-1. 滑軌移動軌道、掛勾
+1. 滑軌移動軌道、掛勾、托盤
 2. 滑軌控制:ESP32
 3. 影像辨識：Jetson-Nano + IMX219
 4. 服務器: SmartPhone + Cloud database
