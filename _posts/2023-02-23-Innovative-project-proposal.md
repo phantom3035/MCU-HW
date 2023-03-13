@@ -20,7 +20,7 @@ This homework is to propose an innovative project and describe the key features,
   - Draw a System Block Diagram
 
 ---
-## 物品移動裝置
+## 物品運送裝置
 ![](https://github.com/phantom3035/MCU-HW/blob/main/images/backpack.png?raw=true)
 ### 應用功能說明
 1. 收納物品：掛勾可以掛書包、衣物、用具等
