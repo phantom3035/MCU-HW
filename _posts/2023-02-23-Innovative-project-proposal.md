@@ -23,20 +23,22 @@ This homework is to propose an innovative project and describe the key features,
 ## 物品移動裝置
 ![](https://github.com/phantom3035/MCU-HW/blob/main/images/backpack.png?raw=true)
 ### 應用功能說明
-1. 操作廚具：咖啡機＋果汁機＋烤麵包機＋微波爐+烤箱+氣炸鍋
-2. 存取冰箱：辨識食物, 存放食材，或取出食材, 送至廚具
+1. 收納物品：掛勾可以掛書包、衣物、用具等
+2. 定點遙控傳輸物品：可用手機指定時間將所需物品送達指定位置
+3. 物品辨識:自動歸納出已儲存物品的項目並整理成表
 
 ### 設計考量與相關技術
 **系統設計考量：**<br>
-1. 操作方式:垂直升降式手臂 or 懸吊式手臂
-2. 移動方式:兩輪 or 滑軌懸吊
+1. 操作方式:手機遙控
+2. 移動方式:滑軌懸吊
 3. 供電方式:鋰電池
-4. 聯網方式:WiFi或BT to 手機
+4. 聯網方式:WiFi
 
 **所需相關技術：**
-1. 滑軌式機器手臂 ＆ 軟式夾具
-2. 食物辨識分類：Jetson-Nano + IMX219
-3. 電子鼻：氣味感測與辨識 MQ2
+1. 滑軌移動軌道、掛勾
+2. 影像辨識：Jetson-Nano + IMX219
+3. 服務器: SmartPhone + Cloud database
+4. 任務規劃與控制: Mission Planner with Floorplan
 
 ### 系統方塊圖
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_kitchen_robot.png?raw=true)
