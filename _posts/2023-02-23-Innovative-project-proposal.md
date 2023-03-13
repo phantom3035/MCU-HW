@@ -24,8 +24,8 @@ This homework is to propose an innovative project and describe the key features,
 ![](https://github.com/phantom3035/MCU-HW/blob/main/images/backpack.png?raw=true)
 ### 應用功能說明
 1. 收納物品：有掛勾和托盤可以放置書包、衣物、用具、電器等
-2. 定點遙控傳輸物品：可用手機指定時間將所需物品送達指定位置
-3. 物品辨識:自動歸納出已儲存物品的項目並整理成表
+2. 定點遙控傳輸物品：可用手機指定時間將所需物品送達指定位置  ex:廚房到客廳、客廳到臥室等
+4. 物品辨識:自動歸納出已儲存物品的項目並整理成表
 
 ### 設計考量與相關技術
 **系統設計考量：**<br>
