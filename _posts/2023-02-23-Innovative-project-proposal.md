@@ -36,9 +36,10 @@ This homework is to propose an innovative project and describe the key features,
 
 **所需相關技術：**
 1. 滑軌移動軌道、掛勾
-2. 影像辨識：Jetson-Nano + IMX219
-3. 服務器: SmartPhone + Cloud database
-4. 任務規劃與控制: Mission Planner with Floorplan
+2. 滑軌控制:ESP32
+3. 影像辨識：Jetson-Nano + IMX219
+4. 服務器: SmartPhone + Cloud database
+5. 任務規劃與控制: Mission Planner with Floorplan
 
 ### 系統方塊圖
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_kitchen_robot.png?raw=true)
