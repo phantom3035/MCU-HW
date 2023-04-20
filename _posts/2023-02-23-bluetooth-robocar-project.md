@@ -32,7 +32,8 @@ This project is to implement a bluetooth remote controlled robotcar.
 ![](https://image.ruten.com.tw/g2/8/d4/16/21440347657238_872.jpg)
 
 ### 系統方塊圖
-![](https://github.com/phantom3035/MCU-HW/blob/main/images/bt%20car%20block%20art.png?raw=true)
+
+![](https://github.com/phantom3035/MCU-HW/blob/main/images/BT%20CAR%20BLOCK%20ART.png?raw=true)
 
 ### 程式碼:
 ![](https://github.com/phantom3035/MCU-HW/blob/main/images/92111.png?raw=true)
