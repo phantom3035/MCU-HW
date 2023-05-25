@@ -1,5 +1,6 @@
 ### 系統方塊圖
-
+![](https://github.com/phantom3035/MCU-HW/blob/main/images/thingspeak.png?raw=true)
+)
 ### 程式碼:
 ![](https://github.com/phantom3035/MCU-HW/blob/main/images/thingspeak1.png?raw=true)
 ![](https://github.com/phantom3035/MCU-HW/blob/main/images/thingspeak2.png?raw=true)
